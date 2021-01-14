@@ -43,9 +43,9 @@ TODO
 
 #### Home assignments
 
-1. Register of datacamp.
+1. Register on [datacamp](https://www.datacamp.com/).
 
-2. Register on github.
+2. Register on [github](https://github.com/).
 
 3. Fill in the form. 
 
