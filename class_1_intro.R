@@ -1,3 +1,5 @@
+# R for finance. Class 1.
+
 # attach package ----
 library(tidyverse) # data manipulation, plotting...
 library(rio) # input/output
