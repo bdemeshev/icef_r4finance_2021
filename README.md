@@ -38,8 +38,7 @@ Part 1: introduction into R
 
 #### Videos of this course
 
-
-TODO
+[Part I videos](https://www.youtube.com/playlist?list=PLGpdGKp2JUvxqgt1huHjDQizf6fZzsCq5)
 
 #### Home assignments
 
@@ -47,9 +46,20 @@ TODO
 
 2. Register on [github](https://github.com/).
 
-3. Fill in the form. 
+3. Fill in the [form](https://www.youtube.com/playlist?list=PLGpdGKp2JUvxqgt1huHjDQizf6fZzsCq5). 
 
-4. Complete the courses...
+4. Complete the courses 
 
-TODO
+[Forecasting using R](https://www.datacamp.com/courses/forecasting-using-r)
+
+[Arima models in R](https://learn.datacamp.com/courses/arima-models-in-r)
+
+Deadline: exam date, 21:00 MSK.
+
+Note: the forecasting field is rapidly evolving and these two courses use old syntax. 
+The code will work but some things may be done simplier :)
+
+If you think that these two courses are useless for you then just write me a letter and propose any two other datacamp time series courses as a replacement.
+Probably I will accept your proposal.
+
 
