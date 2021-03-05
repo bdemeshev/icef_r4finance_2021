@@ -46,7 +46,7 @@ Part 1: introduction into R
 
 2. Register on [github](https://github.com/).
 
-3. Fill in the [form](https://www.youtube.com/playlist?list=PLGpdGKp2JUvxqgt1huHjDQizf6fZzsCq5). 
+3. Fill in the [form](https://docs.google.com/spreadsheets/d/1nVaM0FI1PWuj2D1CBrTrAL6lHq79BCh5wii9W99YFHo/edit). 
 
 4. Complete the courses 
 
